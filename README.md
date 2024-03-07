@@ -1,13 +1,7 @@
 # Loki
 
 Loki is a simple **R**emote **A**ccess **T**ool.<br/>
-Loki uses **RSA-2048** with **AES-256** to keep your communication with infected machines secure.<br/>
-
-[![Version](https://img.shields.io/badge/Version-v0.1.1-blue)]()
-[![Python](https://img.shields.io/badge/Python-v3.6%2B-blue)]()
-[![Discord](https://img.shields.io/badge/Discord-server-blue)](https://discord.gg/VYRAZg5)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-orange.svg)](https://www.paypal.me/Msheikh03)
-<br/><br/>
+Loki uses **RSA-2048** with **AES-256** to keep your communication with infected machines secure.
 
 <img src="Screenshots/bots.png" atl=""/>
 
@@ -52,10 +46,6 @@ Loki, just like all my other repos is stricly for **educational** purposes.
 -   Keylogger
 -   SFTP
 -   SSH
-
-### Video
-
-https://www.youtube.com/watch?v=UTfZlXGoJ5Y
 
 ### Installation
 
